@@ -15,6 +15,14 @@ header {
 	background-color: #ff7380;
 }
 
+.banner {
+	color: #444;
+	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+}
+
 h1 {
 	color: #000;
 	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
@@ -94,7 +102,7 @@ footer {
 }
 
 img {
-	width: 25%;
+	width: 50%;
 }
 
 .bg-image {
