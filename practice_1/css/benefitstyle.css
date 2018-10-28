@@ -116,5 +116,8 @@ img {
 .CTA2 {
 	text-align: right;
 	float: right;
+	padding-top: 20px;
+	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
+	text-transform: uppercase;
 
 }
