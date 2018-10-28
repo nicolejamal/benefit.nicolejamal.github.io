@@ -139,15 +139,14 @@ img {
 	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
 	text-transform: uppercase;
 	line-height: 22.4px;
-	padding-top: 40px;
-	padding-right: 60px;
-	padding-left: 60px;
-	padding-bottom: 40px;
+	padding-top: 25px;
+	padding-right: 80px;
+	padding-left: 80px;
+	padding-bottom: 60px;
 	
 }
 
 .menu-options-container {
-	text-transform: lowercase;
 	display: inline-block;
 	font-size: 11px;
 }
