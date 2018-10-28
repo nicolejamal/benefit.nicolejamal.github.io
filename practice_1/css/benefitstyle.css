@@ -23,6 +23,8 @@ header {
 	text-align: center;
 }
 
+
+
 h1 {
 	color: #000;
 	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
@@ -111,6 +113,8 @@ img {
 	width: 300px;
 }
 
-.right {
+.CTA2 {
+	text-align: right;
+	float: right;
 
 }
