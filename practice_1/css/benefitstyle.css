@@ -131,6 +131,7 @@ img {
 	float: center;
 	background-origin: padding-box;
 	box-shadow: 0, 0, 5px, #ccc;
+	box-sizing: 30%;
 	color: #444;
 	display: inline-block;
 	font-size: 16px;
