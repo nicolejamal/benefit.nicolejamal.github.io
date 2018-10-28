@@ -67,6 +67,7 @@ ul {
 	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
 	font-weight: bold;
 	text-transform: lowercase;
+	display:inline;
 }
 
 li {
@@ -100,4 +101,8 @@ img {
 	background: url('../images/natural-before.jpg');
 	height:300px;
 	width: 300px;
+}
+
+.right {
+
 }
