@@ -132,7 +132,7 @@ img {
 	background-origin: padding-box;
 	box-shadow: 0, 0, 5px, #ccc;
 	color: #444;
-	display: block;
+	display: inline-block;
 	font-size: 16px;
 	font-weight: 400;
 	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
@@ -143,5 +143,10 @@ img {
 	padding-left: 0px;
 	padding-bottom: 0px;
 	
+}
 
+.menu-options-container {
+	text-transform: lowercase;
+	display: inline-block;
+	font-size: 11px;
 }
